@@ -1,2 +1,2 @@
-echo "hell: %date: %time:"
+echo "hell: %date%: %time%:"
 
