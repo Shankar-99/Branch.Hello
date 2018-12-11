@@ -1,2 +1,2 @@
 echo "hell: %date: %time:"
-Iam ------------
+Iam in Jenkins
